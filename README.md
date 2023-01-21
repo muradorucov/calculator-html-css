@@ -1,16 +1,17 @@
 # Calculate repo
+[live](https://muradorucov.github.io/calculator-html-css/)
 
-### Layihə haqqında qısa məlumat :
+### Brief information about the project:
 
-- Layihəyə başlandı : 10 Avqust 2021
-- Layihə bitdi : 10 Avqust 2021
+- Project started: August 10, 2021
+- Project ended: August 10, 2021
 
-### Layihədə istifadə olunan texnologiyalar :
+### Technologies used in the project:
 
-- Front-end texnologiyaları :
+- Front-end technologies:
 
-  > HTML5
+   > HTML5
 
-  > CSS3
+   > CSS3
 
-  > Bootstrap
+   > Bootstrap
